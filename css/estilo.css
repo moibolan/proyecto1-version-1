@@ -14,7 +14,10 @@ nav a{
     padding: 1% 2%;
     text-decoration: none;
     font-size: 1.2em;
+
 }
+
+/*HOLA COMMIT TEST*/
 
 nav a:hover{
     background-color: rgb(16, 47, 73);
