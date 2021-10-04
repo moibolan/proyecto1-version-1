@@ -464,9 +464,9 @@ a.movie-item:hover {
     font-weight: 700;
 }
 
-.section {
-    padding-top: 80px;
-}
+/*.section {*/
+/*    padding-top: 40px;*/
+/*}*/
 
 .section-header {
     margin-bottom: 30px;
@@ -530,8 +530,8 @@ a.movie-item:hover {
 }
 
 footer.section {
-    margin-top: 80px;
-    padding-bottom: 80px;
+    margin-top: 30px;
+    /*padding-bottom: 40px;*/
     position: relative;
     background-color: var(--box-bg);
 }
@@ -552,7 +552,9 @@ footer a.logo:hover {
 .social-list {
     display: flex;
     align-items: center;
-    margin-top: 20px;
+
+    width: 25%;
+
 }
 
 .social-item {
@@ -580,7 +582,10 @@ footer .content {
 }
 
 .footer-menu {
+    margin: 0px;
+    padding: 0;
     list-style-type: none;
+
 }
 
 .footer-menu a {
@@ -609,6 +614,7 @@ footer .content {
 
 .sliderItem{
     display: flex;
+    padding-top: 40px;
 
 }
 
